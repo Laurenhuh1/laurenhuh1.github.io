@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Lauren Huh/ Data Analyst"
+title                    : "Lauren Huh - Data Analyst"
 title_separator          : "-"
 name                     : &name "Lauren Huh"
 description              : &description "personal description"
@@ -23,22 +23,21 @@ repository               : "laurenhuh1.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Lauren Huh"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "M.S Applied Data Analytics @ Boston University | Service Desk IT Specialist @ NYCBS"
   location         : "Queens, NY"
-  employer         : "New York Cancer and Blood Specialist"
-  uri              : # URL
+  employer         : "NY Cancer and Blood Specialist"
+  uri              : "github.com/laurenhuh1.github.io"
   email            : "laurenhuh1@gmail.com" 
 
   # Academic websites
-  academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
@@ -51,7 +50,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -60,7 +59,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/lauren-huh/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
